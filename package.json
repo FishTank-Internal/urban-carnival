@@ -1,7 +1,7 @@
 {
-  "name": "@bfishtank-internal/urban-carnival",
-  "version": "1.0.2",
-  "description": "bug-free-couscous",
+  "name": "@fishtank-internal/urban-carnival",
+  "version": "1.0.0",
+  "description": "urban-carnival",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
