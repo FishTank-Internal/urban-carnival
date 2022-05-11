@@ -7,10 +7,6 @@
     "start": "node index.js",
     "test": "mocha test.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "ssh://git@github.com:FishTank-Internal/urban-carnival"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
